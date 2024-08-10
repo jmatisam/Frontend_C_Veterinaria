@@ -24,4 +24,4 @@ Función de Salir que sales de sesión, por lo que haria falta logarte de nuevo.
 ## The documentation is inside the repository, in a PDF. ;) and
 * [Documentación](https://www.canva.com/design/DAGNcs3qQ1c/BcWeUzfY-GYTvaGqNsdecQ/view?utm_content=DAGNcs3qQ1c&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-![key](/src/static/imagesT4.png)
+![key](/src/static/images/T4.png)
