@@ -18,7 +18,7 @@ Función de Salir que sales de sesión, por lo que haria falta logarte de nuevo.
 
 
 ## tHE wEB iNTERFACE
-![key](src\static\images\UI.png)
+![key](/src/static/images/UI.png)
 
 
 ## The documentation is inside the repository, in a PDF. ;) and
